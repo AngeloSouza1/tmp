@@ -21,8 +21,8 @@
     <img alt="Feito pela Desenvolvendo Me" src="https://img.shields.io/badge/feito%20por-Desenvolvendo Me-%237519C1">
   </a>
   
-  <a href="https://blog.rocketseat.com.br/">
-    <img alt="Stargazers" src="https://img.shields.io/badge/Blog-Rocketseat-%237159c1?style=flat&logo=ghost">
+  <a href="https://instagram.com/desenvolvendomecanal?igshid=YmMyMTA2M2Y=/">
+    <img alt="Stargazers" src="https://img.shields.io/badge/Instagram-Desenvolvendo Me-%237159c1?style=flat&logo=ghost">
     </a>
   
  
