@@ -17,8 +17,8 @@
     <img alt="Stargazers" src="https://img.shields.io/github/stars/desenvolvendo-me/ticket-event?style=social">
   </a>
 
-  <a href="https://desenvolvendoMe.com.br">
-    <img alt="Feito pela DesenvolvendoMe" src="https://img.shields.io/badge/feito%20por-DesenvolvendoMe-%237519C1">
+  <a href="[https://desenvolvendoMe.com.br](https://www.youtube.com/channel/UCp98bXHSc01w8fBfkkgHB1Q)">
+    <img alt="Feito pela Desenvolvendo Me" src="https://img.shields.io/badge/feito%20por-Desenvolvendo Me-%237519C1">
   </a>
   
   <a href="https://blog.rocketseat.com.br/">
