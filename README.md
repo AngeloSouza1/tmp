@@ -28,11 +28,11 @@
  
 </p>
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#Projeto Mentoria">
+      Projeto Startup - Mentoria
 </h1>
 
 <h4 align="center"> 
-	🚧  Ecoleta ♻️ Concluído 🚀 🚧
+	🎫🎫🎫🎫🎫🎫🎫🎫🎫🎫 ticket-event 🚀 🎫🎫🎫🎫🎫🎫🎫🎫🎫🎫
 </h4>
 
 <p align="center">
