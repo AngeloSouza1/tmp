@@ -2,15 +2,13 @@
   <img src="https://github.com/AngeloSouza1/tmp/blob/d7aa6100647d8efa60e14796562d17951a53d0bc/Ticket%20Event%20(1).png" alt="Ticket Event (1)">
 </p>
 
-
-
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tgmarinho/README-ecoleta?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/desenvolvendo-me/ticket-event?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tgmarinho/README-ecoleta">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/desenvolvendo-me/ticket-event">
 
-  <a href="https://www.twitter.com/tgmarinho/">
-    <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Ftgmarinho%2FREADME-ecoleta">
+  <a href="https://www.twitter.com/desenvolvendo-me/">
+    <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fdesenvolvendo-me%2Fticket-event">
   </a>
   
   <a href="https://github.com/tgmarinho/README-ecoleta/commits/master">
