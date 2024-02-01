@@ -7,12 +7,9 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/desenvolvendo-me/ticket-event">
 
-  <a href="https://www.twitter.com/desenvolvendo-me/">
-    <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fdesenvolvendo-me%2Fticket-event">
-  </a>
   
-  <a href="https://github.com/tgmarinho/README-ecoleta/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tgmarinho/README-ecoleta">
+  <a href="https://github.com/desenvolvendo-me/ticket-event/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/desenvolvendo-me/ticket-event">
   </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
