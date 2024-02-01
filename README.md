@@ -8,7 +8,7 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/desenvolvendo-me/ticket-event">
 
   
-  <a href="https://github.com/desenvolvendo-me/ticket-event/commits/release/v0.1">
+  <a href="https://github.com/desenvolvendo-me/ticket-event/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/desenvolvendo-me/ticket-event">
   </a>
     
