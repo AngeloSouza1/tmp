@@ -49,11 +49,9 @@
 
 ## 💻 Sobre o projeto
 
-♻️ Ecoleta - é uma forma de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resíduos de maneira ecológica.
+🎫 **ticket-event** - apresento a você uma plataforma completa para criação e gerenciamento de eventos, abrangendo palestras, vídeos, oportunidades de cursos e envio de convites. A aplicação visa otimizar o processo de organização de eventos e oferecer uma experiência completa aos participantes.
 
-
-Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat](https://blog.rocketseat.com.br/primeira-next-level-week/).
-O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
+Projeto desenvolvido durante o período da Mentoria oferecida pela [Desenvolvendo Me](https://instagram.com/desenvolvendomecanal?igshid=YmMyMTA2M2Y=/)). É uma experiência online com muito conteúdo prático e  desafios, onde o conteúdo  disponível fica cada vez mais desafiador, visando desenvolver e evoluir seu conhecimento na pratica com experiencias reais.
 
 ---
 
