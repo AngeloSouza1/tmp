@@ -13,12 +13,12 @@
   </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/tgmarinho/README-ecoleta/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/tgmarinho/README-ecoleta?style=social">
+   <a href="https://github.com/desenvolvendo-me/ticket-event/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/desenvolvendo-me/ticket-event?style=social">
   </a>
 
-  <a href="https://rocketseat.com.br">
-    <img alt="Feito pela Rocketseat" src="https://img.shields.io/badge/feito%20por-Rocketseat-%237519C1">
+  <a href="https://desenvolvendoMe.com.br">
+    <img alt="Feito pela DesenvolvendoMe" src="https://img.shields.io/badge/feito%20por-DesenvolvendoMe-%237519C1">
   </a>
   
   <a href="https://blog.rocketseat.com.br/">
