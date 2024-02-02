@@ -91,18 +91,25 @@ $ git clonegit@github.com:desenvolvendo-me/ticket-event.git
     <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/AngeloSouza1/tmp/blob/main/prize.png" width="500px">
 </p>
 
+##### ➡️  Iniciando a Aplicação com o framework Tailwind
+```bash
+$ foreman start -f Procfile.dev
+```
 
-#
+
+
+
+
+
+
+---
 
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
-
-
 -   **Ruby - Versão: 2.7.5**
 
 
----
 
 
 
