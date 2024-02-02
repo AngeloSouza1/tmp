@@ -54,14 +54,7 @@ Projeto desenvolvido durante o período da Mentoria oferecida pela [Desenvolvend
 
 ## 🎨 Layout
 
-O layout da aplicação está disponível no Figma:
-
-<a href="https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=136%3A546">
-  <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
-</a>
-
-
-### Mobile
+Layout de algumas funcionalidades:
 
 <p align="center">
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/home-mobile.png" width="200px">
@@ -69,7 +62,6 @@ O layout da aplicação está disponível no Figma:
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/detalhes-mobile.svg" width="200px">
 </p>
 
-### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/web.svg" width="400px">
