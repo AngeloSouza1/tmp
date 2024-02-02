@@ -85,8 +85,9 @@ $ git clonegit@github.com:desenvolvendo-me/ticket-event.git
 ```
 ##### ➡️   Gere o Banco de Dados Local e também rode as migracões da aplicação
 
-#####    ⚠️   Algumas implementações estão em desenvolvimento e para funcionamento da aplicação  precisam ser desabilitadas, como esta migração: 
-[20231225224251_add_column_prize_to_prize_draws.rb]()
+#####    ⚠️   Algumas implementações estão em desenvolvimento e para funcionamento da aplicação  precisam ser desabilitadas, como esta migração:      [20231225224251_add_column_prize_to_prize_draws.rb]()
+
+
 
 
 # Vá para a pasta server
