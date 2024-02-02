@@ -87,7 +87,9 @@ $ git clonegit@github.com:desenvolvendo-me/ticket-event.git
 
 #####    ⚠️   Algumas implementações estão em desenvolvimento e para funcionamento da aplicação  precisam ser desabilitadas, como esta migração:      [20231225224251_add_column_prize_to_prize_draws.rb]()
 
-
+<p align="center">
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/AngeloSouza1/tmp/blob/main/tela2.png" width="400px">
+</p>
 
 
 # Vá para a pasta server
