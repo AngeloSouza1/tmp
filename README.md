@@ -45,9 +45,14 @@
 
 ## 💻 Sobre o projeto
 
+<div align="justify">
+
 🎫 **ticket-event** - apresento a você uma plataforma completa para criação e gerenciamento de eventos, abrangendo palestras, vídeos, oportunidades de cursos e envio de convites. A aplicação visa otimizar o processo de organização de eventos e oferecer uma experiência completa aos participantes.
 
-Projeto desenvolvido durante o período da Mentoria oferecida pela [Desenvolvendo Me](https://instagram.com/desenvolvendomecanal?igshid=YmMyMTA2M2Y=/). É uma experiência online com muito conteúdo prático e  desafios, onde o conteúdo  disponível fica cada vez mais desafiador, visando desenvolver e evoluir seu conhecimento na prática com experiências reais.
+Projeto desenvolvido durante o período da Mentoria oferecida pela [Desenvolvendo Me](https://instagram.com/desenvolvendomecanal?igshid=YmMyMTA2M2Y=/). É uma experiência online com muito conteúdo prático e desafios, onde o conteúdo disponível fica cada vez mais desafiador, visando desenvolver e evoluir seu conhecimento na prática com experiências reais.
+
+</div>
+
 
 ---
 
@@ -85,7 +90,13 @@ $ git clone git@github.com:desenvolvendo-me/ticket-event.git
 ```
 ##### ➡️   Gere o Banco de Dados Local e também rode as migracões da aplicação
 
+
+<div align="justify">
+	
 #####    ⚠️   Algumas implementações estão em desenvolvimento e para funcionamento da aplicação  precisam ser desabilitadas, como esta migração:      [20231225224251_add_column_prize_to_prize_draws.rb]()
+
+
+</div>
 
 <p align="center">
     <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/AngeloSouza1/tmp/blob/main/prize.png" width="500px">
