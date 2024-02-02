@@ -81,7 +81,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ##### ➡️  Clone este repositório (branch: release/v0.1)
 ```bash
-$ git clonegit@github.com:desenvolvendo-me/ticket-event.git
+$ git clone git@github.com:desenvolvendo-me/ticket-event.git
 ```
 ##### ➡️   Gere o Banco de Dados Local e também rode as migracões da aplicação
 
@@ -95,13 +95,35 @@ $ git clonegit@github.com:desenvolvendo-me/ticket-event.git
 ```bash
 $ foreman start -f Procfile.dev
 ```
+##### ➡️ 👁️‍🗨️ Caso o comando acima, não funcione, seguir o procedimento abaixo:
+```bash.
+# --- execuções do arquivo Dockerfile ---
 
+ rm -rf node_modules && npm install
 
+ npm install esbuild
 
+ bundle exec rake assets:precompile
 
+ bundle exec rake assets:clean
 
+ bundle exec rails tailwindcss:build 
 
+```
+##### ⚠️  Persistindo algum erro, seguir os procedimentos abaixo:
 
+##### 🔹 Execute este comando para atualizar o Bundler
+```bash
+$  gem install bundler:2.4.20
+```
+##### 🔹 Execute este comando:
+```bash
+$  bundle exec rails tailwindcss:build
+```
+##### ➡️  Execute o comando para subir o servidor da aplicação:
+```bash
+$  bundle exec rails s    
+```
 ---
 
 ## 🛠 Tecnologias
